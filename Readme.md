@@ -1,13 +1,13 @@
-# 🌩️ Sanika Mahale Cloud Engineering Portfolio
+#  Sanika Mahale Cloud Engineering Portfolio
 
 This repository contains my personal portfolio website, showcasing my skills as a Cloud Engineering Specialist. This is my first simple project, deployed on an AWS EC2 instance.
-## 🎯 Project Goal
+##   Project Goal
 #### The main objectives of this project are:
 
 * Deploy a static HTML website on an AWS EC2 instance.
 
 * Manage and configure the web server using Nginx.
-## 🛠️ Technologies Used
+##   Technologies Used
 
 * **HTML5 & CSS3 :** For the website structure and styling.
 
@@ -15,11 +15,11 @@ This repository contains my personal portfolio website, showcasing my skills as 
 
 * **Nginx :** A high-performance web server used to serve the HTML content.
 
-## 🚀 Deployment Steps on AWS EC2
+##   Deployment Steps on AWS EC2
 
 This section outlines the simplified steps I followed to deploy the portfolio on an AWS EC2 instance using Nginx .
 
-**✅ Assumptions**
+**  Assumptions**
 
 * An AWS EC2 instance is already launched and running (e.g., Amazon Linux 2 or Ubuntu).
 
@@ -95,9 +95,10 @@ This command checks for syntax errors in your Nginx configuration.
     sudo systemctl restart nginx
  ```
 
-## ✅ Final Success!
+##  Final Success!
 
 ![](./Success-img.png)
 
 ![](./img/Screenshot%20(2).png)
+
 ![](./img/Screenshot%20(3).png)
